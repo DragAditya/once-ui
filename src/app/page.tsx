@@ -43,7 +43,7 @@ export default function Home() {
 						<Flex
 							position="relative"
 							flex={2} paddingTop="56" paddingX="xl">
-							<Logo size="xl" icon={false} style={{zIndex: '1'}} href="https://once-ui.com"/>
+							<Logo size="xl" icon={false} style={{zIndex: '1'}} href="https://dragadi.com"/>
 						</Flex>
 						<Flex
 							position="relative"
