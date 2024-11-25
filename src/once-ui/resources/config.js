@@ -32,14 +32,14 @@ const og = {
 const schema = {
     logo: '',
     type: 'Organization',
-    name: 'One UI',
+    name: 'DragAditya',
     description: 'Once UI is an open-source design system and component library for Next.js.',
     email: 'lorant@once-ui.com'
 }
 
 // social links
 const social = {
-    twitter: 'https://www.twitter.com/_onceui',
+    twitter: 'https://www.twitter.com/memekudhkiya',
     linkedin: 'https://www.linkedin.com/company/once-ui/',
     discord: 'https://discord.com/invite/5EyAQ4eNdS'
 }
